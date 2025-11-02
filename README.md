@@ -21,7 +21,7 @@ To perform visual and statistical exploration to find meaningful patterns, relat
 | `Task5_Titanic_EDA.pdf` | Final PDF report summarizing findings |
 | `train.csv` | Dataset used (downloaded from kaggle Titanic Dataset) |
 | `images/` *(optional)* | Saved plot screenshots used in the report |
-|`Jupyter/ colab notebook` Link - https://colab.research.google.com/drive/1YVk1ap_ZU_IQr2-uCjuazgNBg1QX4yRy?usp=sharing |
+|`Jupyter/ colab notebook` Link - https://colab.research.google.com/drive/1YVk1ap_ZU_IQr2-uCjuazgNBg1QX4yRy?usp=sharing 
 ## 🔍 Key Insights
 - Women and children had higher survival rates.  
 - First-class passengers had the highest chance of survival.  
